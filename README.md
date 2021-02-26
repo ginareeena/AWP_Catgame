@@ -1,6 +1,6 @@
 # Playing the Cat Game:
 
-Cat is sleeping initially
+Cat is sleeping initially.
 You have to wake it up to get it to move around!
 
 # Controls:
