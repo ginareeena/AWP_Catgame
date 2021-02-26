@@ -1,13 +1,12 @@
-#Playing the Cat Game:
+# Playing the Cat Game:
 
 Cat is sleeping initially
-
 You have to wake it up to get it to move around!
 
 # Controls:
-* Click- To Wake up Kitty (Multiple clicks it will stand)
-* Left arrow- Walks left (when standing)
-* Right arrow- Walks right (when standing)
+* Click- To Wake up Kitty (multiple clicks it will stand)
+* Left arrow- Walks left (When standing)
+* Right arrow- Walks right (When standing)
 * Up arrow- Jumps
 
 # Phaser 3 Webpack Project Template
