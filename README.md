@@ -4,7 +4,7 @@ Cat is sleeping initially.
 You have to wake it up to get it to move around!
 
 # Controls:
-* Click- To Wake up Kitty (multiple clicks it will stand)
+* Click- To Wake up Kitty (multiple clicks will make it stand)
 * Left arrow- Walks left (When standing)
 * Right arrow- Walks right (When standing)
 * Up arrow- Jumps
