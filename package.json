@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "dev": "webpack-dev-server --config webpack/base.js --open",
-    "start": "cd dist"
+    "start": "cd dist && node bundle.min.js"
   },
   "repository": {
     "type": "git",
