@@ -33,6 +33,8 @@ class MyGame extends Phaser.Scene {
     // this.highScore = 0;
   }
 
+  // <img src="/src/assets/pusheenWalk.png"/>
+
   preload() {
     this.load.spritesheet("cat", "./src/assets/pusheenWalk.png", {
       frameWidth: 300,

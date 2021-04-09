@@ -9,8 +9,7 @@
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "dev": "webpack-dev-server --config webpack/base.js --open",
-    "start": "cd src && node index.js",
-    "heroku-postbuild": "concurrently --kill-others  \"webpack-dev-server --config webpack/base.js --open\""
+    "start": "cd /dist"
   },
   "repository": {
     "type": "git",
