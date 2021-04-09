@@ -35,6 +35,7 @@
   "dependencies": {
     "phaser": "^3.52.0",
     "phaser3-project-template": "^1.0.9",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^3.9.0",
+    "webpack": "^4.41.2"
   }
 }
