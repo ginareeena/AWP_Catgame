@@ -34,8 +34,7 @@ module.exports = {
       WEBGL_RENDERER: JSON.stringify(true),
     }),
     new HtmlWebpackPlugin({
-      template: resolve(__dirname, "src/public", "index.html"),
-      filename: "./index.html",
+      template: "./index.html",
     }),
   ],
 };
