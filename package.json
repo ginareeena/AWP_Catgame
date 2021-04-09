@@ -38,6 +38,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "concurrently": "^6.0.1",
     "phaser": "^3.52.0",
     "phaser3-project-template": "^1.0.9"
   }
