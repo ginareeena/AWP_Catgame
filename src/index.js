@@ -56,7 +56,6 @@ class MyGame extends Phaser.Scene {
     // this.load.image("lazerLeft", "./src/assets/lazerRedL.png");
   }
 
-  // WTF is this ?
   init() {
     this.fullWidth = 200;
   }
