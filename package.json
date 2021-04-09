@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "dev": "webpack-dev-server --config webpack/base.js --open",
-    "start": "concurrently --kill-others \"node bundle.min.js\" \"webpack-dev-server --config webpack/base.js --open\"",
+    "start": "concurrently --kill-others  \"webpack-dev-server --config webpack/base.js --open\"",
     "heroku-postbuild": "npm run build"
   },
   "repository": {
