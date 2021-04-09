@@ -1,3 +1,6 @@
+# Getting started:
+Fork and clone and run npm run dev to play! :)
+
 # Playing the Cat Game:
 
 Cat is sleeping initially.
