@@ -3,8 +3,7 @@ Fork and clone and run npm run dev to play! :)
 
 # Playing the Cat Game:
 
-Cat is sleeping initially.
-You have to wake it up to get it to move around!
+Wake your cat up and eat as many donuts as you can while dodging damage dealing fire donuts. 
 
 # Controls:
 * Click- To Wake up Kitty (multiple clicks will make it stand)
