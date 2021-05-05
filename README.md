@@ -1,5 +1,5 @@
  <h1 align="center"> Welcome to:</h1> 
-<p align="center"><img src="./src/assets/bannerLong.png"/></p>
+<p align="center"><img src="./src/assets/bannerLg.png"/></p>
 
 
 # Getting started:
