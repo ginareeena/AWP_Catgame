@@ -1,5 +1,6 @@
- <h1 > Welcome to </h1> 
-<img src="./src/assets/banner2.png"/>
+ <h1 align="center"> Welcome to:</h1> 
+<p align="center"><img src="./src/assets/bannerLong.png"/></p>
+
 
 # Getting started:
 Fork and clone and run npm run dev to play! :)
