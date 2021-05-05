@@ -1,11 +1,11 @@
- <h1 align="center"> Welcome to Donut Cats!</h1> 
-<p align="center"><img src="./src/assets/banner2.png"/></p>
+<h1 align="center"> Welcome to Donut Cats!</h1> 
+<!-- <p align="center"><img src="./src/assets/banner2.png"/></p> -->
 
 
 # Getting started:
 Fork and clone and run npm run dev to play! :)
 
-# Playing the Cat Game:
+# Playing the Game:
 
 Wake your cat up and eat as many donuts as you can while dodging damage dealing fire donuts. 
 
@@ -15,7 +15,7 @@ Wake your cat up and eat as many donuts as you can while dodging damage dealing 
 * Right arrow- Walks right (When standing)
 * Up arrow- Jumps
 
-# Phaser 3 Webpack Project Template
+# Phaser 3 Webpack Project Template Info:
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
 
@@ -35,13 +35,10 @@ Loading images via JavaScript module `import` is also supported, although not re
 | `npm start`     | Build project and open web server running project                               |
 | `npm run build` | Builds code bundle with production settings (minification, uglification, etc..) |
 
-## Writing Code
 
 After cloning the repo, run `npm install` from your project directory. Then, you can start the local development server by running `npm start`.
 
 After starting the development server with `npm start`, you can edit any files in the `src` folder and webpack will automatically recompile and reload your server (available at `http://localhost:8080` by default).
-
-## Customizing the Template
 
 ### Babel
 
