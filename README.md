@@ -7,7 +7,7 @@ Fork and clone and run npm run dev to play! :)
 
 # Playing the Game:
 
-Wake your cat up and eat as many donuts as you can while dodging damage dealing fire donuts. 
+Wake your cat up and eat as many donuts as you can while dodging fire donuts that deal damage. 
 
 # Controls:
 * Click- To Wake up Kitty (multiple clicks will make it stand)
