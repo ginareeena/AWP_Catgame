@@ -1,5 +1,5 @@
- <h1 align="center"> Welcome to:</h1> 
-<p align="center"><img src="./src/assets/bannerLong.png"/></p>
+ <h1 align="center"> Welcome to Donut Cats!</h1> 
+<p align="center"><img src="./src/assets/banner.png"/></p>
 
 
 # Getting started:
