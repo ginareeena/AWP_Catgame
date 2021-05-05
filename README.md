@@ -1,4 +1,4 @@
-<img src="src/readme.png"/>
+<img src="./src/assets/readme.png"/>
 
 # Getting started:
 Fork and clone and run npm run dev to play! :)
