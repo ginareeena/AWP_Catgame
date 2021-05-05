@@ -1,6 +1,4 @@
-# Welcome to:
-
-
+ <h1 > Welcome to </h1> 
 <img src="./src/assets/banner2.png"/>
 
 # Getting started:
