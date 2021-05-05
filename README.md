@@ -1,4 +1,4 @@
-<img src="./src/assets/banner.png"/>
+<img src="./src/assets/banner2.png"/>
 
 # Getting started:
 Fork and clone and run npm run dev to play! :)
