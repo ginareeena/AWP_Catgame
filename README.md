@@ -1,19 +1,20 @@
-<h1 align="center"> Welcome to Donut Cats!</h1> 
+<h1 align="center"> Welcome to Donut Cats!</h1>
 <p align="center"><img src="./src/assets/banner2.png"/></p>
 
+# Running Locally:
 
-# Getting started:
 Fork and clone and run npm run dev to play! :)
 
 # Playing the Game:
 
-Wake your cat up and eat as many donuts as you can while dodging fire donuts that deal damage. 
+Wake your cat up and eat as many donuts as you can while dodging fire donuts that deal damage.
 
 # Controls:
-* Click- To Wake up Kitty (multiple clicks will make it stand)
-* Left arrow- Walks left (When standing)
-* Right arrow- Walks right (When standing)
-* Up arrow- Jumps
+
+- Click- To Wake up Kitty (multiple clicks will make it stand)
+- Left arrow- Walks left (When standing)
+- Right arrow- Walks right (When standing)
+- Up arrow- Jumps
 
 # Phaser 3 Webpack Project Template Info:
 
@@ -34,7 +35,6 @@ Loading images via JavaScript module `import` is also supported, although not re
 | `npm install`   | Install project dependencies                                                    |
 | `npm start`     | Build project and open web server running project                               |
 | `npm run build` | Builds code bundle with production settings (minification, uglification, etc..) |
-
 
 After cloning the repo, run `npm install` from your project directory. Then, you can start the local development server by running `npm start`.
 
